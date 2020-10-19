@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08c425b1-5d72-46ed-bb7f-f06b15da95f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.2/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j18njZfp3NDzhSZXeyuNMIuBUn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/controllers/users_controller" />
+      <recent name="$PROJECT_DIR$/controllers/ping_controller" />
+      <recent name="$PROJECT_DIR$/domain/users" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/bookstore_users-api">
+    <configuration name="go build github.com/bookstore_users-api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_users-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/bookstore_users-api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="bookstore_users-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="github.com/bookstore_users-api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build github.com/bookstore_users-api" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/bookstore_users-api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="199" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602962772645">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="499" y="199" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1602962772645" />
+    <state width="798" height="288" key="GridCell.Tab.0.bottom" timestamp="1602968029815">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="798" height="288" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602968029815" />
+    <state width="798" height="288" key="GridCell.Tab.0.center" timestamp="1602968029814">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="798" height="288" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602968029814" />
+    <state width="798" height="288" key="GridCell.Tab.0.left" timestamp="1602968029813">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="798" height="288" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602968029813" />
+    <state width="798" height="288" key="GridCell.Tab.0.right" timestamp="1602968029814">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="798" height="288" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602968029814" />
+    <state x="292" y="202" key="SettingsEditor" timestamp="1602968801353">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="292" y="202" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1602968801353" />
+    <state x="958" y="114" width="604" height="822" key="find.popup" timestamp="1602969092056">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="958" y="114" width="604" height="822" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1602969092056" />
+  </component>
+</project>
